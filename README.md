@@ -1,5 +1,5 @@
 ![alt text](https://github.com/itzmeshaik/itzmeshaik/blob/main/intro.png?raw=true) 
-📈 I'm a growing, young coder!
+***📈 I'm a growing, young coder!***
 
 - 🌱 I’m currently learning web development.
 - 🤔 I’m looking for help with ...
