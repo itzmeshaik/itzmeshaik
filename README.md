@@ -16,7 +16,9 @@
 
 ### My Skillset
 ![My Skills](https://skillicons.dev/icons?i=html,css&perline=15&theme=dark) Learning HTML and CSS so I can learn JavaScript!
+<br>
 ![My Skills](https://skillicons.dev/icons?i=py&perline=15&theme=dark) I know some Python basics(I actually began with this language but I later switched to web. Will probably get back to it later).
+<br>
 ![My Skills](https://skillicons.dev/icons?i=java&perline=15&theme=dark) I know some basic Java. A refresher would be nice though🤔...
 
 ### Achivements
