@@ -1,4 +1,4 @@
-## Hi there👋! My name is Hisham Shaik. 
+![alt text](https://github.com/RileyBautista/RileyBautista/blob/main/New%20Project(38).png?raw=true) 
 📈 I'm a growing, young coder!
 
 - 🌱 I’m currently learning web development.
@@ -16,6 +16,7 @@
 
 ### My Skillset
 ![My Skills](https://skillicons.dev/icons?i=html,css,java,py&perline=15&theme=dark) 
+<br>
 Learning HTML and CSS so I can learn JavaScript!
 <br>
 I know some Python basics(I actually began with this language but I later switched to web. Will probably get back to it later).
