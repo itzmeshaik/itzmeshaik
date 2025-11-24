@@ -1,5 +1,5 @@
 ## Hi there! My name is Hisham Shaik 👋
-I'm a growing, young coder!
+📈 I'm a growing, young coder!
 
 - 🌱 I’m currently learning web development.
 - 🤔 I’m looking for help with ...
@@ -11,3 +11,6 @@ I'm a growing, young coder!
      - Soccer
      - Gaming
      - More!
+
+### My Skillset
+![My Skills](https://skillicons.dev/icons?i=html,css,py,java,js&perline=15&theme=dark)
