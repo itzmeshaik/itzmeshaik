@@ -4,15 +4,15 @@
 - 🌱 I’m currently learning web development.
 - 📫 Contact Me: hishamshaik23@gmail.com
 - 🎨 Hobbies:
-     - Art
-     - Programming
+     - 🎨 Art
+     - ⌨️ Programming
      - Tinkering with technology
-     - Soccer
-     - Gaming
-     - Linux
-     - More!
- - I use linux btw...
-
+     - ⚽ Soccer
+     - 🎮 Gaming
+     - 🐧 Linux
+     - 🏊‍♀️ Swimming
+ - 🐧I use linux btw...
+ - FOSS
 ### My Skillset
 ![My Skills](https://skillicons.dev/icons?i=html,css,java,py&perline=15&theme=dark) 
 <br>
