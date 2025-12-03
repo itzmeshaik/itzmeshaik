@@ -2,7 +2,6 @@
 **📈 I'm a growing, young coder!**
 
 - 🌱 I’m currently learning web development.
-- 📫 Contact Me: hishamshaik23@gmail.com
 - 🎨 Hobbies:
      - 🎨 Art
      - ⌨️ Programming
@@ -14,13 +13,21 @@
  - 🐧I use linux btw...
  - FOSS
 ### My Skillset
-![My Skills](https://skillicons.dev/icons?i=html,css,java,py&perline=15&theme=dark) 
+![My Skills](https://skillicons.dev/icons?i=html,css,java,py,arch,linux,bash,neovim,&perline=15&theme=dark) 
 <br>
 Learning HTML and CSS so I can learn JavaScript!
 <br>
 I know some Python basics(I actually began with this language but I later switched to web. Will probably get back to it later).
 <br>
 I know some basic Java. A refresher would be nice though🤔...
+<br>
+I use neovim for my own projects in my own free time but I use VS code when following tutorials.
+<br>
+I used to use arch linux and know basic commands and how the system works.
+<br>
+Bash, idk it just looked cool...
+<br>
+I use linux. I've used many many distros.
 
 ### 💫My Stats!
 [![GitHub Streak](https://streak-stats.demolab.com?user=itzmeshaik&theme=gruvbox)](https://git.io/streak-stats)
@@ -28,3 +35,7 @@ I know some basic Java. A refresher would be nice though🤔...
 ### Achivements
  - I've modded a chromebook to run linux and windows.
  - I learn math that is two grades ahead of me.
+
+### Contact Me!
+![Contact Me!](https://skillicons.dev/icons?i=discord,gmail&perline=15&theme=dark)
+hishamshaik23@gmail.com
