@@ -1,6 +1,7 @@
 ![alt text](https://github.com/itzmeshaik/itzmeshaik/blob/main/intro.png?raw=true) 
-**📈 I'm a growing, young coder!**
+## **📈 I'm a growing, young coder!**
 
+# 👀 Overview
 - 🌱 I’m currently learning web development.
 - 🎨 Hobbies:
      - 🎨 Art
@@ -12,7 +13,7 @@
      - 🏊‍♀️ Swimming
  - 🐧I use linux btw...
  - FOSS
-### My Skillset
+# My Skillset
 ![My Skills](https://skillicons.dev/icons?i=html,css,java,py,arch,linux,bash,neovim,&perline=15&theme=dark) 
 <br>
 Learning HTML and CSS so I can learn JavaScript!
@@ -29,13 +30,24 @@ Bash, idk it just looked cool...
 <br>
 I use linux. I've used many many distros.
 
-### 💫My Stats!
-[![GitHub Streak](https://streak-stats.demolab.com?user=itzmeshaik&theme=gruvbox)](https://git.io/streak-stats)
-
-### Achivements
+# Achivements
  - I've modded a chromebook to run linux and windows.
  - I learn math that is two grades ahead of me.
 
-### Contact Me!
-![Contact Me!](https://skillicons.dev/icons?i=discord,gmail&perline=15&theme=dark)
-hishamshaik23@gmail.com
+# Contact Me!
+<br>
+<p>
+     <a target="_blank" href="mailto: hishamshaik23@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail&perline=1&theme=dark">
+     </a>
+</p>
+
+<br>
+
+<p>
+     <a target="_blank" href="https://discord.com">
+          <img src="https://skillicons.dev/icons?i=gmail&perline=1&theme=dark">
+     </a>
+</p>
+
+
