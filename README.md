@@ -14,7 +14,7 @@
  - 🐧I use linux btw...
  - FOSS
 # My Skillset
-![My Skills](https://skillicons.dev/icons?i=html,css,java,py,arch,linux,bash,neovim,&perline=15&theme=dark) 
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,arch,linux,bash,neovim,&perline=15&theme=dark) 
 <br>
 Learning HTML and CSS so I can learn JavaScript!
 <br>
@@ -36,17 +36,15 @@ I use linux. I've used many many distros.
 
 # Contact Me!
 <br>
+Click the Icons! 👇
 <p>
      <a target="_blank" href="mailto: hishamshaik23@gmail.com">
           <img src="https://skillicons.dev/icons?i=gmail&perline=1&theme=dark">
      </a>
 </p>
-
-<br>
-
 <p>
      <a target="_blank" href="https://discord.com">
-          <img src="https://skillicons.dev/icons?i=gmail&perline=1&theme=dark">
+          <img src="https://skillicons.dev/icons?i=discord&perline=1&theme=dark">
      </a>
 </p>
 
