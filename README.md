@@ -22,6 +22,9 @@ I know some Python basics(I actually began with this language but I later switch
 <br>
 I know some basic Java. A refresher would be nice though🤔...
 
+### 💫My Stats!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmeshaik&show_icons=true&theme=gruvbox&hide_border=true)
+
 ### Achivements
  - I've modded a chromebook to run linux and windows.
  - I learn math that is two grades ahead of me.
