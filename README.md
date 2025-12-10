@@ -16,7 +16,7 @@
 # My Skillset
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,arch,linux,bash,neovim,&perline=15&theme=dark) 
 <br>
-Learning HTML and CSS so I can learn JavaScript!
+Learning JavaScript!
 <br>
 I know some Python basics(I actually began with this language but I later switched to web. Will probably get back to it later).
 <br>
@@ -24,11 +24,11 @@ I know some basic Java. A refresher would be nice though🤔...
 <br>
 I use neovim for my own projects in my own free time but I use VS code when following tutorials.
 <br>
-I used to use arch linux and know basic commands and how the system works.
+I know how to use arch linux, know basic commands, and how the system works.
 <br>
-Bash, idk it just looked cool...
+Bash, idk the icon just looked cool...
 <br>
-I use linux. I've used many many distros.
+I use linux. I've used countless distros.
 
 # Achivements
  - I've modded a chromebook to run linux and windows.
