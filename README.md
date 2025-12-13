@@ -14,7 +14,7 @@
  - 🐧I use linux btw...
  - FOSS
 # My Skillset
-![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,arch,linux,bash,neovim,&perline=15&theme=dark) 
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,neovim,arch,linux,&perline=15&theme=dark) 
 <br>
 Learning JavaScript!
 <br>
@@ -25,8 +25,6 @@ I know some basic Java. A refresher would be nice though🤔...
 I use neovim for my own projects in my own free time but I use VS code when following tutorials.
 <br>
 I know how to use arch linux, know basic commands, and how the system works.
-<br>
-Bash, idk the icon just looked cool...
 <br>
 I use linux. I've used countless distros.
 
