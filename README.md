@@ -2,7 +2,7 @@
 ## I'm a growing, young, **Self-Taught** coder!
 
 # 👀 Overview
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning python.
 - 🎨 Hobbies:
      - 🎨 Art
      - ⌨️ Programming
