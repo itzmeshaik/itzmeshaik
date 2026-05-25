@@ -19,19 +19,3 @@
 # Achivements
  - I've modded a chromebook to run linux and windows.
  - I learn math that is two grades ahead of me.
-
-# Contact Me!
-<br>
-Click the Icons! 👇
-<p>
-     <a target="_blank" href="mailto: hishamshaik23@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail&perline=1&theme=dark">
-     </a>
-</p>
-<p>
-     <a target="_blank" href="https://discord.com">
-          <img src="https://skillicons.dev/icons?i=discord&perline=1&theme=dark">
-     </a>
-</p>
-
-
